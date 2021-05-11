@@ -1,0 +1,18 @@
+body{
+    background-color:lightblue;
+}
+
+td{
+    border:2px solid lightslategrey
+
+} 
+
+p{
+    text-align: center
+
+}
+
+span{
+    background-color: red ;
+    display: block;
+}
